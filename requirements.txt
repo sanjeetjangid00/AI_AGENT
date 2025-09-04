@@ -5,3 +5,4 @@ ddgs
 langchain-google-genai
 python-dotenv
 streamlit
+requests
